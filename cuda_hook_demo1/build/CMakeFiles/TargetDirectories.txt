@@ -1,0 +1,8 @@
+/root/cuda_hook_demos/cuda_hook_demo1/build/CMakeFiles/rebuild_cache.dir
+/root/cuda_hook_demos/cuda_hook_demo1/build/CMakeFiles/edit_cache.dir
+/root/cuda_hook_demos/cuda_hook_demo1/build/hook_lib/CMakeFiles/rebuild_cache.dir
+/root/cuda_hook_demos/cuda_hook_demo1/build/hook_lib/CMakeFiles/edit_cache.dir
+/root/cuda_hook_demos/cuda_hook_demo1/build/hook_lib/CMakeFiles/cuda_hook.dir
+/root/cuda_hook_demos/cuda_hook_demo1/build/test_app/CMakeFiles/rebuild_cache.dir
+/root/cuda_hook_demos/cuda_hook_demo1/build/test_app/CMakeFiles/edit_cache.dir
+/root/cuda_hook_demos/cuda_hook_demo1/build/test_app/CMakeFiles/test_app.dir

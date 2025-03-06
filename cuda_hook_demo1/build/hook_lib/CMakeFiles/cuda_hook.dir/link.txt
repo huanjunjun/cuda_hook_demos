@@ -1,0 +1,1 @@
+/usr/lib/nvidia-cuda-toolkit/bin/g++ -fPIC  -shared -Wl,-soname,libcuda_hook.so -o libcuda_hook.so CMakeFiles/cuda_hook.dir/cuda_hook.cu.o  -lcudart -lcuda -lcudadevrt -lcudart_static  -L"/usr/lib/x86_64-linux-gnu/stubs" -lcudadevrt -lcudart_static -lrt -lpthread -ldl

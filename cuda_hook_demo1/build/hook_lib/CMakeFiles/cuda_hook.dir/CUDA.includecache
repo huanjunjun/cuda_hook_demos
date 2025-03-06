@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/cuda_hook_demos/cuda_hook_demo1/hook_lib/cuda_hook.cu
+dlfcn.h
+-
+cstdio
+-
+cuda.h
+-
+cuda_runtime_api.h
+-
+
