@@ -3,7 +3,7 @@
 #include <cuda_runtime.h>
 #include <cuda.h>
 
-#define NUM_CONTEXTS 50  // 增加上下文数量
+#define NUM_CONTEXTS 25  // 增加上下文数量
 #define ITERATIONS 1000000  // 增加迭代次数提高测量精度
 
 // 添加内核函数
